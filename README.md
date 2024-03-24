@@ -1,1 +1,1 @@
-# CollegeCourseCirriculumDesigner
+# CollegeCourseCurriculumDesigner
