@@ -1,1 +1,1 @@
-# CollegeCourseCurriculumDesigner
+# College Course Curriculum Designer
